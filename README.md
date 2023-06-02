@@ -35,7 +35,7 @@ git clone https://github.com/Alipc598/gatsby-main.git
 To run the project using vscode:
 
 ```bash
-npm isntall
+npm install
 gatsby develop
 ```
 
