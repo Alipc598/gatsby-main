@@ -20,7 +20,7 @@ No. The is a Jamstack website developed for ICA2 of MAD class.
 
 A Jamstack website that is implemented in JavaScript and CSS. It is designed to be an online shop for selling books.
 
-The website can be accessed be run on your [localhost8000](http://localhost:8000/)
+The website can be either be accessed directly by clicking on [HERE](https://alibookstore.netlify.app) or it can be run on your [localhost8000](http://localhost:8000/)
 
 
 ## Installation
