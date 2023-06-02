@@ -39,7 +39,7 @@ npm install
 gatsby develop
 ```
 
-open your browser and go to [http://localhost:8000/]
+open your browser and go to [localhost8000](http://localhost:8000/)
 
 ## License
 
