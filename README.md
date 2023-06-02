@@ -32,7 +32,7 @@ git clone https://github.com/Alipc598/gatsby-main.git
 ```
 ## Usage
 
-To run the project using vscode:
+To run the project using vscode, open vsvode, load the project folder, go to terminal, enter:
 
 ```bash
 npm install
