@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <Footer>
           <div>
-          <p class="copy">&copy; Copyright 2022 of Ali's Store</p>
+          <p class="copy">&copy; Copyright 2023 of Ali's Store</p>
         <p class="copy">By Ali Ghaedi </p>
           </div>
         </Footer>
