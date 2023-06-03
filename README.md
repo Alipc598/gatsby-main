@@ -25,7 +25,7 @@ The website can be either be accessed directly by clicking on [HERE](https://ali
 
 ## Installation
 
-The project should be run [VScode](https://code.visualstudio.com/) or any other IDE, [node.js](https://nodejs.org/en) must be installed:
+The project should be run on [VScode](https://code.visualstudio.com/) or any other IDE, [node.js](https://nodejs.org/en) must be installed:
 
 ```bash
 git clone https://github.com/Alipc598/gatsby-main.git
