@@ -9,8 +9,8 @@ const Contact = () => {
         <h2>Get In Touch With Me</h2>
         <div class="contact-form-container">
           <div class="contact-form">
-            {/* <form action="https://formspree.io/f/xyylngw" method="POST"> */}
-                <form>
+             <form action="https://formspree.io/f/xoqzovgv" method="POST"> 
+                
               <div class="form-control">
                 <label for="name">Name</label>
                 <input
